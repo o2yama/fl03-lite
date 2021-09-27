@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "368331452742",
+    "project_id": "fl03-lite",
+    "storage_bucket": "fl03-lite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368331452742:android:a50b9ab0b055c27f5a7547",
+        "android_client_info": {
+          "package_name": "com.example.fl03_lite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368331452742-2gbn2s40ag9btt9iumgbr2fcdvbsp3kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0zb_KPyM81CmnUqhqlV8llcPzgxgmObA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368331452742-2gbn2s40ag9btt9iumgbr2fcdvbsp3kp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368331452742-sc8fu0mpblri3tt3q5qqfa4fgtf813js.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fl03Lite"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
